@@ -1,0 +1,17 @@
+
+.statisticsShowBox{
+   width: 350px;
+   height: 200px;
+   border-radius: 30px;
+   background-color: blue;
+   padding: 20px;
+}
+
+
+.statisticsText{
+
+   text-align: left;
+   font-size: 500;
+   font-size: 28px; 
+   color: black;
+}

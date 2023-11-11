@@ -1,0 +1,13 @@
+.feedbackOpt{
+    display: flex;
+    gap: 20px;
+}
+.feedbackOptBtn{
+    width: 80px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: green;
+    cursor: pointer;
+    border: none;
+}
+/* <CountFeedback /> */
