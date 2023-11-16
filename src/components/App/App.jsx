@@ -1,10 +1,9 @@
-
 import React from 'react';
 import { Component } from 'react';
-import FeedbackOptions from '../FeedbackOptions';
-import Statistics from '../Statistics';
-import Notification from '../Notification';
-import Section from '../Section/index';
+import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
+import Statistics from '../Statistics/Statistics';
+import Notification from '../Notification/Notification';
+import Section from '../Section/Section';
 import css from './app.module.css';
 import '../../index.css';
 
